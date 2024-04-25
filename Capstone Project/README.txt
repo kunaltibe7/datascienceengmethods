@@ -1,6 +1,5 @@
 requirements.txt contains all the libraries used to build the app.
 
-rf_model.sav is the trained model saved
+The trained model is saved in rf_model.sav which is used for stroke prediction.
 
-Streamlit App: https://strokepredictor.streamlit.app/
-
+Streamlit App: https://strokepredictor.streamlit.app/ 
