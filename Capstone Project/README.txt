@@ -1,4 +1,4 @@
-requirements.txt contains all the libraries used to build the app.
+requirements.txt contains all the libraries used with respective versions.
 
 The trained model is saved in rf_model.sav which is used for stroke prediction.
 
